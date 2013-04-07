@@ -5,6 +5,10 @@ A custom shell script designed for Raspberry Pi to install Wordpress along with 
 
 This script is written for Raspberry Pi, but it theoretically could work with any Debian Linux Box with apt-get and NANO installed.
 
+<h3>Prerequisites before install:</h3>
+If possible, use a clean install of the newest Raspbian Image found <a href="http://www.raspberrypi.org/downloads">here</a>.
+If it is impossible or impracticle to flash your device, just ensure that you have no software installed that occupies Port 80.
+
 <h3>Installation Instructions:</h3>
 
 Installation is easy, let's get started:
