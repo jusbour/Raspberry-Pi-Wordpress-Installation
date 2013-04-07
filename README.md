@@ -24,3 +24,5 @@ With the following command and the correct port forwarding, your blog will be vi
 		$ sudo bash /usr/share/doc/wordpress/examples/setup-mysql -n wordpress_mydomain_org wordpress.mydomain.org
 		(Replace the filler domains with the domain you are attempting to set up)
 		
+
+This project was created by Justin Harbour (LikeABoss-001) <C> 2013.  License is granted to any private individual for non-commercial use.  Proper credit, please.
