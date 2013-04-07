@@ -1,3 +1,4 @@
+#This project was created by Justin Harbour (LikeABoss-001) <C> 2013.  License is granted to any private individual for non-commercial use.  Proper credit, please.
 #LAMP Server Install
   sudo apt-get install tasksel
   sudo tasksel install lamp-server
