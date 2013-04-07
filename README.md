@@ -9,7 +9,7 @@ This script is written for Raspberry Pi, but it theoretically could work with an
 
 Installation is easy, let's get started:
 		
-		$ git <URL ABOVE>
+		$ git https://github.com/LikeABoss-001/Raspberry-Pi-Wordpress-Installation.git
 		$ cd Raspberry-Pi-Wordpress-Installation
 		$ sudo bash ./install.sh
 		
